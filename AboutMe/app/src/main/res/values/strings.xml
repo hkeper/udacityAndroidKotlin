@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name_text">Mikhail Makeikin</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Experience in different testing types: functional (new features and regression), exploratory, GUI, integration testing.
+        \n\nKnowledge and understanding of software development models (experience in Agile).
+        \nClear understanding of the software testing role in software development process.
+        \nUnderstanding of the defect life cycle.
+        \nExperience in developing test documentation (test cases, checklists, test suites, test plans).
+        \nExperience in developing functional automated tests.
+        \nExperience in requirements analysis.
+        \n\nWrite easy-to-reproduce bug reports.
+        \nAbility to learn new technologies and approaches in a short time and implement them.
+        \nGood analytical, organizational and interpersonal skills.
+    </string>
+    <string name="avatar">My photo</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
